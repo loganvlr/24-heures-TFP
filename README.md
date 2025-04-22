@@ -9,8 +9,6 @@
 - 🧑‍💻 PANTANI Timothé - /
 - 👩‍💻 VILLARD Logan - /
 
-**Objectif** :  
-🛠️ /
 ---
 
 ## 🔧 Technologies utilisées
