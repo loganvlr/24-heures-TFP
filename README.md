@@ -1,8 +1,8 @@
-# 🏆 [Nom du projet] - 24h Pour Coder
+# 🏆 Bulbo - 24h Pour Coder
 
 ## 📌 Présentation du projet
-**Nom du projet** :  
-**Thème** :  
+**Nom du projet** :  Bulbo
+**Thème** :  Jeu de plateforme en utilisant la lumière (ondes)
 **Équipe** : TFP
 - 🧑‍💻 HARO Ewan - /
 - 👩‍💻 FAIVRE D'ARCIER Maxence - /
@@ -15,18 +15,17 @@
 
 ## 🔧 Technologies utilisées
 📌 **Langage principal** : C++  
-📌 **Framework** : Qt6  
 📌 **Outils** :
-- 💻 **IDE** : Qt Creator / CLion / VS Code
+- 💻 **IDE** : Godot Engine / CLion / VS Code
 - 🔄 **Versioning** : Git & GitHub
-- 🎨 **Graphismes** : /
-- 🔊 **Son** : /
+- 🎨 **Graphismes** : pixel art par Timothé
 
 ---
 
 ## 🚀 Fonctionnalités principales
-- ✅ /
-
----
-
-## 📂 Structure du projet
+- ✅ / Emission de lumière autour du personnage principal (avec reflets, passe au travers de vitres)
+- ✅ / Bonus à récupérer (sans but pour l'instant)
+- ✅ / Augmentation luminosité contre immobilité (pour voir plus loin)
+- ✅ / 4 niveaux disponibles
+- ✅ / Plateforme mobiles
+- ✅ / Système de respawn
